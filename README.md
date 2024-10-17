@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Aka. Hegociv | Ethical Hacker | Pentester | CTF Player | SMR | ASIR | Multiple Hacking Certifications | Self-taught<br>
+👋 Aka. Hegociv | Junior Pentester | EJPT | ASIR | SMR | CTF Player | Multiple Hacking Certifications | Self-taught<br>
 📚 Why this repository? Because, I would like to collaborate in the cybersecurity community ...<br>
 👀 I'm interested in working on the cybersecurity pentesting red team ...<br>
 🌱 I’m currently learning all kinds of things to expand my knowledge ...<br>
