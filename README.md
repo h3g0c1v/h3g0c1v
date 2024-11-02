@@ -1,4 +1,5 @@
-# 💫 About Me:
+# <picture><img src = "https://github.com/user-attachments/assets/2ac1f222-156c-491d-843c-41a28d9474f4" width = 50px></picture> Whoami:
+
 👋 Aka. Hegociv | Junior Pentester | EJPT | ASIR | SMR | CTF Player | Multiple Hacking Certifications | Self-taught<br>
 📚 Why this repository? Because, I would like to collaborate in the cybersecurity community ...<br>
 👀 I'm interested in working on the cybersecurity pentesting red team ...<br>
